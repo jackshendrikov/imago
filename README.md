@@ -28,7 +28,15 @@ Other features include:
 - [x] Removing borders
 
 
-In general, everything is based on the `Composite` pattern.
+In general, everything is based on the `Composite`, `Prototype` and `Visitor` patterns.
+
+<details>
+  <summary>Class Diagram</summary>
+<p align="center">
+    <img src="img/diagram.png" alt="Class Diagram">
+</p>
+</details>
+
 
 ## Example of project performance
 
